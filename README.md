@@ -1,4 +1,10 @@
-### Hi there 👋
+### Skills and interests
+- C#.NET
+- Typescript
+- WebApi / MVC / EntityFramework
+- Angular
+- HTML / CSS
+- SQL (T-SQL, PL/SQL)
 
 <!--
 **321thomas/321thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
